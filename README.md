@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 # Hello folks!👋
 
-My name is Ashish Kumar. I am a backend developer at cerner corporation. I am from india.
+My name is Ashish Kumar. I am a backend developer with experience in building microservices , REST API and ability to perform well in a team. Passionate
+about coding and willing to learn new technology and collaborate.
 
 
 ## 🔧 Langueages & Tools
